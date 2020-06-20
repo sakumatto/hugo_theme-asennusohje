@@ -1,3 +1,10 @@
+
+
+
+
+
+--------
+From hereon original text of Adam & Eve theme original which my version is based on
 # Adam & Eve
 
 I migrated my wiki from [Dokuwiki](https://www.dokuwiki.org/) to [Hugo](http://gohugo.io/) and created a new theme to reconcile both: Adam & Eve was born.
